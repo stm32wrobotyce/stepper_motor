@@ -1,0 +1,6 @@
+stepper.c:18:6:stepper_init	24	static
+stepper.c:25:6:stepper_set_continous	24	static
+stepper.c:35:6:stepper_set_angle	24	static
+stepper.c:56:6:stepper_stop	16	static
+stepper.c:68:6:stepper_set_direction	16	static
+stepper.c:76:6:stepper_set_speed	24	static
